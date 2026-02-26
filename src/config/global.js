@@ -46,7 +46,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Conceptos básicos de redes y networking',
+            titulo: 'Conceptos básicos de redes y <em>networking</em>',
             hash: 't_1_2',
           },
         ],

@@ -8,10 +8,10 @@
     .row.justify-content-center
       .col-lg-8.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.png", alt="Los sistemas operativos de red incluyen: 1. Licenciamientos como: software libre, Copyleft, GLP y Por Cores. 2. Medios de transmisión como: cable UTP, Coaxial y fibra. 3. Topologías como: malla, hibrido, anillo, estrella y bus. 4. Sistemas como: windows, Linux y UNIX. ")
 
     .row.justify-content-center
-      .col-lg-6
+      .col-auto
         a.anexo.mb-4(:href="obtenerLink('downloads/sintesisCF8.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
