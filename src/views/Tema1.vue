@@ -102,7 +102,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img1-5.svg', alt='Caja abierta')
           .col-xl-8
-            p Permiten que quien lo adquiera pueda modificar el código fuente y pueda distribuir libremente sin pagar derechos de autor; hoy en día existen muchos de estos #[em softwares] que derivan de proyectos anteriores, como es el caso de Unix.
+            p Permiten que quien lo adquiera pueda modificar el código fuente y pueda distribuir libremente sin pagar derechos de autor; hoy en día existen muchos de estos #[em software] que derivan de proyectos anteriores, como es el caso de Unix.
 
       .tarjeta.color-adicional-1.p-4(titulo="<em>Software</em> libre").borde
         .row.m-0.justify-content-center.align-items-center
@@ -182,6 +182,8 @@
             p.mb-0 Actualmente la mejor opción para transportar señales de datos es la fibra óptica, ya que lo hace mediante pulsos modulados de luz, como el cable no transporta impulsos eléctricos, la señal no se ve afectada por interferencias y lo hace más seguro, debido a que la pérdida de datos es nula. Sin embargo, un inconveniente de la fibra óptica, es que se puede llegar a romper fácilmente si la manipulación no se hace de forma adecuada, luego es más difícil de manipular y cortar, ya que requiere un equipo especial. #[br]
             p.mb-0 Ahora bien, existen las topologías en las redes, las cuales definen cómo se interconectan dispositivos para intercambiar datos lógica y físicamente, es decir cómo está diseñada la red.
 
+    .row.mt-5
+      h3.mb-5 Topologías básicas de redes
 
     p.mb-5(data-aos="fade-right") Existen 5 topologías básicas, estas son:
 

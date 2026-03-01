@@ -156,37 +156,36 @@ export default {
       referencia:
         'Cura, N. (2020). <em>Fundamentos de Sistemas Operativos</em>. Universitas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB175153',
+        'https://www.alphaeditorialcloud.com/library/publication/fundamentos-de-sistemasoperativos-1620075918 ',
     },
     {
       referencia:
         'Kurose, J. (2017). <em>Redes De Computadoras: Un Enfoque Descendente.</em> Séptima Edición. Pearson Educación. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_ebooks0005090',
+        'https://www.casadellibro.com.co/libro-redes-decomputadoras-7-ed/9788490355282/5602058 ',
     },
     {
       referencia:
         'Lezcano, M. (2018). <em>Fundamentos de Sistemas Operativos: Entornos De Trabajo = Fundamentals of Operating Systems: Work Environments</em>. Fondo Editorial Universidad Cooperativa de Colombia.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB85313',
+      link: 'https://bibliovirtual.pi.edu.co/bib/20338',
     },
     {
       referencia:
         'Sánchez, M., Barchino, R. & Martínez, J. (2020) <em>Redes de Computadores.</em> Universidad de Alcalá, Servicio de Publicaciones. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB131606',
+        'https://publicaciones.uah.es/.galleries/Galeria-Servicio-de-Publicaciones/PDFsNovedades/redes-.pdf',
     },
     {
       referencia:
         'Serna, M. y Allende, S. (2020). <em>Sistemas Operativos: Linux.</em> Jorge Sarmiento Editor – Universitas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB175148',
+        'https://www.alphaeditorialcloud.com/library/publication/sistemaoperativo-linux-1620072889',
     },
     {
       referencia:
         'Tanenbaum, A., Vidal, A. & Wetherall, D. (2022). <em>Redes De Computadoras.</em> 5a. Edición. Pearson Educación. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_ebooks0005085',
+        'https://gc.scalahed.com/recursos/files/r161r/w25733w/redes_de_computadorasfreelibros-org.pdf',
     },
   ],
   creditos: {
