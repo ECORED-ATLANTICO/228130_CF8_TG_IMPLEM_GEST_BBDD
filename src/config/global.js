@@ -155,37 +155,32 @@ export default {
     {
       referencia:
         'Cura, N. (2020). <em>Fundamentos de Sistemas Operativos</em>. Universitas.',
-      link:
-        'https://www.alphaeditorialcloud.com/library/publication/fundamentos-de-sistemasoperativos-1620075918 ',
     },
     {
       referencia:
         'Kurose, J. (2017). <em>Redes De Computadoras: Un Enfoque Descendente.</em> Séptima Edición. Pearson Educación. ',
       link:
-        'https://www.casadellibro.com.co/libro-redes-decomputadoras-7-ed/9788490355282/5602058 ',
+        'https://www.tecnologicoamazonasygs.edu.pe/biblioteca/files/original/59ec5708933778b10b8b6f711f91f9bb.pdf',
     },
     {
       referencia:
         'Lezcano, M. (2018). <em>Fundamentos de Sistemas Operativos: Entornos De Trabajo = Fundamentals of Operating Systems: Work Environments</em>. Fondo Editorial Universidad Cooperativa de Colombia.',
-      link: 'https://bibliovirtual.pi.edu.co/bib/20338',
+      link:
+        'https://www.researchgate.net/profile/Mateo_Lezcano2/publication/326311409_Fundamentos_de_sistemas_operativos_Entornos_de_trabajo/links/5b48c5500f7e9b4637d5cf54/Fundamentos-de-sistemas-operativos-Entornos-de-trabajo.pdf',
     },
     {
       referencia:
         'Sánchez, M., Barchino, R. & Martínez, J. (2020) <em>Redes de Computadores.</em> Universidad de Alcalá, Servicio de Publicaciones. ',
-      link:
-        'https://publicaciones.uah.es/.galleries/Galeria-Servicio-de-Publicaciones/PDFsNovedades/redes-.pdf',
     },
     {
       referencia:
         'Serna, M. y Allende, S. (2020). <em>Sistemas Operativos: Linux.</em> Jorge Sarmiento Editor – Universitas.',
-      link:
-        'https://www.alphaeditorialcloud.com/library/publication/sistemaoperativo-linux-1620072889',
     },
     {
       referencia:
         'Tanenbaum, A., Vidal, A. & Wetherall, D. (2022). <em>Redes De Computadoras.</em> 5a. Edición. Pearson Educación. ',
       link:
-        'https://gc.scalahed.com/recursos/files/r161r/w25733w/redes_de_computadorasfreelibros-org.pdf',
+        'https://gc.scalahed.com/recursos/files/r161r/w25733w/redes_de_computadoras-freelibros-org.pdf',
     },
   ],
   creditos: {
